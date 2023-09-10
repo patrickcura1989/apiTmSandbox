@@ -1,0 +1,14 @@
+{
+  "name": "apitmsandbox",
+  "version": "1.0.0",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.37.1"
+  }
+}
